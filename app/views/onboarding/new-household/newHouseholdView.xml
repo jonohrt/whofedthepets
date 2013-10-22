@@ -1,0 +1,7 @@
+<Alloy>
+	<Window class="container">
+		 <Label id="householdLabel">Please give your new household a name</Label>
+		 <TextField id="householdName" />
+			<Button onClick="checkName">Next</Button>
+	</Window>
+</Alloy>

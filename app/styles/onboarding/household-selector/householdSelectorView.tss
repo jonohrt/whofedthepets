@@ -1,0 +1,10 @@
+".container": {
+	backgroundColor:"white"
+}
+"#createHouseholdBtn" : {
+	top:100
+}
+
+"#joinHouseholdBtn" : {
+	top:200
+}

@@ -1,0 +1,6 @@
+<Alloy>
+	<Window class="container">
+		 <Button id="createHouseholdBtn" onClick="navigateToCreateHousehold">Create a new household</Button>
+		 <Button id="joinHouseholdBtn" onClick="navigateToJoinHousehold">Join an existing household</Button>
+	</Window>
+</Alloy>

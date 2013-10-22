@@ -1,0 +1,20 @@
+{
+    "log": ["CRUD", "REST+"],
+    "databases": {
+        
+        "sync_gateway" : {
+            "server": "http://localhost:8091",
+            "sync": ` function(doc) {
+                channel(doc.channels);
+            }`,
+            
+            "users": {
+
+                "GUEST": {
+                    "disabled": true
+                }
+            }
+        }
+        
+    }
+}

@@ -1,0 +1,21 @@
+"#emailLabel": {
+	top:160
+},
+"#email": {
+	top: 190
+},
+"#passwordLabel": {
+	top: 220
+},
+"#password": {
+	top:250
+},
+"#loginButton": {
+	top: 280
+},
+"#signUpLabel": {
+	top: 310
+},
+"#signUpButton": {
+	top:330
+}

@@ -1,0 +1,1 @@
+module.exports = [{"isApi":true,"priority":1000.0003,"key":"Label","style":{color:"#ccc",}},{"isClass":true,"priority":10000.0001,"key":"container","style":{backgroundImage:"/images/dog-texture.png",}},{"isClass":true,"priority":10000.0002,"key":"field","style":{backgroundColor:"#fff",width:200,}}];

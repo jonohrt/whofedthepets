@@ -1,0 +1,12 @@
+<Alloy>
+	<Window class="container">
+		<Label id="emailLabel">Email Address</Label>
+    <TextField id="email" class="field"/>
+    <Label id="passwordLabel">Password</Label>
+    <TextField id="password" passwordMask="true" class="field"/>
+    <Button id="loginButton" onClick="login">Log in</Button>
+
+    <Label id="signUpLabel">Don't have an account</Label>
+    <Button id="signUpButton" onClick="signup">SignUp</Button>
+	</Window>
+</Alloy>
